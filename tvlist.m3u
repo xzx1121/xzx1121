@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库
 http://223.109.234.154/tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=c6762676bac0c0d818ec2949b4a12426&wsTime=1723960807&wsSession=a6c9588b5c0ff2afd28f1bc1-172395115500179&wsIPSercert=626150a84c1338ebf354eb0efae1496c&wsiphost=local&wsBindIP=1
+#EXTINF:-1 tvg-id="227" tvg-name="文物宝库2" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库2
+http://223.111.139.54/tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=67e28eb4ba24ab0a06428b0fcc08e2bf&wsTime=1723871408&wsSession=a8268a94917e4c2d4142dd19-172386335459336&wsIPSercert=626150a84c1338ebf354eb0efae1496c&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://223.110.242.163:6610/cntv/live1/H265-8000k-1080P-cctv1/H265-8000k-1080P-cctv1/1.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
