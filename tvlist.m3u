@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库5" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库5
 http://61.134.255.131:8084/rtp/226.0.2.110:8792
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库4" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库4
-http://59.52.177.67:2086/rtp/239.252.220.158:5140
+http://171.116.226.246:8084/rtp/226.0.2.110:8792
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库
-http://119.166.159.120:6666/udp/239.253.254.141:8000
+http://171.120.216.230:8082/rtp/226.0.2.110:8792
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库3" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库3
 http://118.250.138.247:8888/udp/239.76.252.180:9000
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库1" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库1
