@@ -6,7 +6,7 @@ http://223.144.160.204:58888/udp/239.76.252.180:9000
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库ipv6" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库ipv6
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000658/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库3" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库3
-http://118.250.138.247:8888/udp/239.76.252.180:9000
+http://118.78.221.176:8686/rtp/226.0.2.110:8792
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库1" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库1
 http://60.223.72.17:8003/rtp/226.0.2.110:8792
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库2" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库2
