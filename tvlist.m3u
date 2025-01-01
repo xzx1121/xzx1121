@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库5" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库5
 http://120.38.46.242:9999/rtp/239.61.3.21:9646
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库4" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库4
-http://118.255.79.211:8887/udp/239.76.245.180:1234
+http://120.38.46.242:9999/rtp/239.61.3.21:9646
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库ipv6" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库ipv6
 http://221.198.202.147:8888/udp/225.1.2.105:5002
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库3" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库3
-http://111.162.164.43:8686/udp/225.1.2.105:5002
+http://124.129.11.68:9999/udp/239.253.254.141:8000
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库1" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库1
-http://183.190.92.11:8000/rtp/226.0.2.110:8792
+http://123.245.17.225:8181/udp/239.33.4.214:22140
 #EXTINF:-1 tvg-id="227" tvg-name="文物宝库2" tvg-logo="https://cdn.jsdelivr.net/gh/youngking525/TVlogo@main/img/wwbk.png" group-title="数字",文物宝库2
 http://221.196.57.129:8888/udp/225.1.2.105:5002
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
